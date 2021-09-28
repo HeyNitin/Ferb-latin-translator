@@ -1,0 +1,72 @@
+
+
+
+body{
+
+    margin: 0px;
+    margin-top: -22px;
+    
+
+}
+
+#header{
+
+background-color: orange;
+padding: 2rem 2rem;
+border-bottom-left-radius: 1rem;
+text-align: center;
+
+}
+
+#txt-input{
+
+    min-height: 15vh;
+    width: 60%;
+    margin-left: 20%; 
+
+}
+
+#btn{
+
+    margin-left: 20%;
+    margin-top: 1rem;
+    padding: .5rem 2rem;
+    border-radius: .5rem;
+    background-color: rgb(98, 224, 98);
+    
+
+}
+
+
+#text{
+
+margin-left: 20%;
+margin-top: 2rem;
+
+}
+
+
+#output{
+
+border: 1px solid black;
+min-height: 15vh;
+width: 60%;
+margin-left: 20%;
+
+}
+
+#footer{
+
+    text-align: center;
+    background-color: orange;
+    padding: 1rem;
+    margin-top: 2.7rem;
+    
+}
+
+#footer-text{
+
+margin: auto;
+max-width: 600px;
+
+}
